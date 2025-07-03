@@ -3,7 +3,7 @@
         {
           "src": "weatherproject/wsgi.py",
           "use": "@vercel/python",
-          "config": { "maxLambdaSize": "15mb", "runtime": "python 3.9" }
+          "config": { "maxLambdaSize": "15mb", "runtime": "python 3.12" }
         }
       ],
       "routes": [

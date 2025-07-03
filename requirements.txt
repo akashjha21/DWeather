@@ -70,7 +70,6 @@ pyswarm==0.6
 python-dateutil==2.8.2
 python-decouple==3.8
 python-json-logger==2.0.7
-pywin32==306
 pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==25.1.2
